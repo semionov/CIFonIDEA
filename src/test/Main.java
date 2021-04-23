@@ -9,7 +9,7 @@ public class Main {
         clientBuyProcess();
     }
 
-    //commit
+    //commit2
     public static void clientBuyProcess() {
         // scope number #3
         int discount = 0;
